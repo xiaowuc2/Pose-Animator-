@@ -70,4 +70,7 @@ It should also run on Chrome on Android and potentially more Android mobile brow
 	```
 1. Embed the sample skeleton in ‘skeleton’ group into your illustration by moving the joints around.
 1. Export the file as an SVG file.
-1. Open [Pose Animator camera demo](https://pose-animator-demo.firebaseapp.com/camera.html). Once everything loads, drop your SVG file into the browser tab. You should be able to see it come to life :D
+1. Open [Pose Animator camera demo](https://pose-animator-demo.firebaseapp.com/camera.html). Once everything loads, drop your SVG file into the browser tab. You should be able to see it come to life 
+
+I've improve a bit that the real project bt @yemount
+If you really like my project please give me a star and improve the project by fork :D
