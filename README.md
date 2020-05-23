@@ -2,7 +2,7 @@
 
 Pose Animator takes a 2D vector illustration and animates its containing curves in real-time based on the recognition result from PoseNet and FaceMesh. It borrows the idea of skeleton-based animation from computer graphics and applies it to vector characters.
 
-*Thisis ot an officialy uppted Gogeproduct*
+*Thisis ot anofficialy uppted Gogeproduct*
 
 <img src="/resources/gifs/avatar-new-1.gif?raw=true" alt="cameraDemo" style="width: 250px;"/>
 
