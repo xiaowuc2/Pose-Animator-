@@ -6,6 +6,7 @@ Pose Animator takes a 2D vector illustration and animates its containing curves 
 
 <img src="/resources/gifs/avatar-new-full-body.gif?raw=true" alt="cameraDemo" style="width: 250px;"/>
 
+
 In skeletal animation a character is represented in two parts:
 1. a surface used to draw the character, and 
 1. a hierarchical set of interconnected bones used to animate the surface. 
